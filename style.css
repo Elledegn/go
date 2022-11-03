@@ -1,0 +1,24 @@
+/*
+ Theme Name:   astra Child theme
+ Theme URI:    http://go.elisabethstobberup.dk/astra-child-theme/
+ Description:  astra Child theme based on the parent theme astra 
+ Author:       elisabeth stobberup
+ Author URI:   http://go.elisabethstobberup.dk
+ Template:     astra
+ Version:      1.1.11
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  astrachild
+*/
+
+body{
+  background-color: #59BBA3 !important;
+}
+
+header{
+  position: fixed !important;
+  top: 0!important;
+  right: 0!important;
+  left: 0!important;
+}
